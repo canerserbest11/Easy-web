@@ -137,3 +137,9 @@ body{
 .container .facebook a:hover{
     background-color: #014588;
 }
+.container .google i,
+.container .facebook i,
+.container .twitter i{
+    font-size: 22px;
+    padding-right: 22px;
+}
